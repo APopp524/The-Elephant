@@ -1,0 +1,26 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+.jumbotron {
+    margin-top: 20px;
+    background-image: url(https://www.boldmagazine.ca/wp-content/uploads/2019/08/anantara_golden_triangle_elephant_couple_header_1920x1080.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.display-4 {
+    color: cornsilk;
+    font-family: 'Balsamiq Sans', cursive;
+    
+}
+
+.para1 {
+    padding-top: 75px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 25px;
+}
