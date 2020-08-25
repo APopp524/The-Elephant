@@ -6,6 +6,3 @@ This was one of my first assignments to practice using HTML, CSS, and Bootstrap 
 
 ### Technologies That Were Used
 Bootstrap | CSS | HTML
-
-### Screenshots
-
